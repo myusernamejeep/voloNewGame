@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# vIku3RVz23f97b+BlqRjyrE1uFE=
+
+CACHE:
+C:\Users\myusernamejeep\Documents\GitHub\myNewGame\www-built\css\app.css
+C:\Users\myusernamejeep\Documents\GitHub\myNewGame\www-built\index.html
+C:\Users\myusernamejeep\Documents\GitHub\myNewGame\www-built\js\app.js
+C:\Users\myusernamejeep\Documents\GitHub\myNewGame\www-built\manifest.webapp
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
